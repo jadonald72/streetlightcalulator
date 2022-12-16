@@ -1,0 +1,19 @@
+.map-outer{
+    position: relative;
+}
+
+.mapboxgl-ctrl-bottom-left{
+  display: none!important;
+}
+
+.mapboxgl-ctrl-bottom-right {
+  bottom: 5em!important;
+  right: 50% !important;
+}
+  
+.sidebar {
+  z-index: 2;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
